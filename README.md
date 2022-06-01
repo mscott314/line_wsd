@@ -1,4 +1,4 @@
-# lin_wsd
+# line_wsd
 
 Word sense disambiguation program.
 Determining the correct usage for the word 'line'.
